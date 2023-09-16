@@ -111,7 +111,7 @@ def comp_step():
 
 
 def game_run():
-    print('Игра морской бой.')
+    print('Игра крестики-нолики.')
     result = None
     while True:
         draw_to_console()
